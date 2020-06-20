@@ -2,9 +2,9 @@
 from PIL import Image
 import os, sys
 
-path = "0_raw/"
+path = "../0_raw/"
 dirs = os.listdir( path )
-dest = "1_resized/"
+dest = "../1_resized/"
 
 def resize():
     for item in dirs:

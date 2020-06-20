@@ -10,8 +10,8 @@ from shutil import copyfile
 def main(): 
 
     start = 215
-    src_folder = 'new/'
-    dst_folder = '0_raw/'
+    src_folder = '../new/'
+    dst_folder = '../0_raw/'
     file_format = '.jpg'
   
     for filename in os.listdir(src_folder):
