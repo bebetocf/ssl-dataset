@@ -1,7 +1,7 @@
 <annotation>
 	<folder>1_resized</folder>
 	<filename>00129.jpg</filename>
-	<path>/media/roberto/Backup/ssl-dataset/1_resized/00129.jpg</path>
+	<path>../../1_resized/00129.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
