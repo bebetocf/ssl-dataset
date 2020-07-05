@@ -6,7 +6,7 @@ print(current_dir)
 current_dir = '../1_resized'
 
 # Percentage of images to be used for the test set
-percentage_test = 10;
+percentage_test = 20;
 
 # Create and/or truncate train.txt and test.txt
 file_train = open('../annotation/train.txt', 'w')  
