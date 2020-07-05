@@ -9,9 +9,9 @@ from shutil import copyfile
 # Function to rename multiple files 
 def main(): 
 
-    start = 215
+    start = 259
     src_folder = '../new/'
-    dst_folder = '../0_raw/'
+    dst_folder = '../new/'
     file_format = '.jpg'
   
     for filename in os.listdir(src_folder):

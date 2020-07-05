@@ -2,7 +2,7 @@
 from PIL import Image
 import os, sys
 
-path = "../0_raw/"
+path = "../new/"
 dirs = os.listdir( path )
 dest = "../1_resized/"
 
