@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>173</xmin>
 			<ymin>87</ymin>
-			<xmax>199</xmax>
-			<ymax>115</ymax>
+			<xmax>201</xmax>
+			<ymax>116</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -50,12 +50,12 @@
 	<object>
 		<name>robot</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>212</xmin>
 			<ymin>112</ymin>
-			<xmax>223</xmax>
+			<xmax>224</xmax>
 			<ymax>146</ymax>
 		</bndbox>
 	</object>
