@@ -21,6 +21,8 @@ import random
 
 
 def iterate_dir(source, dest, ratio, copy_xml):
+    random.seed(ratio*100)
+
     source = source.replace('\\', '/')
     dest = dest.replace('\\', '/')
     train_dir = os.path.join(dest, 'train')
