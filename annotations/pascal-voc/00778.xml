@@ -1,0 +1,14 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>00778.jpg</filename>
+	<path>/home/roberto/Documents/msc/msc-project/yolo_v4/ssl-dataset/1_resized/00778.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>00802.jpg</filename>
+	<path>/home/roberto/Documents/msc/msc-project/yolo_v4/ssl-dataset/1_resized/00802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>66</ymin>
+			<xmax>163</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>
