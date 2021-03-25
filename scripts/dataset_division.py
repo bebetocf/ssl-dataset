@@ -23,7 +23,8 @@ for item in dirs:
         file_dict["classes"][int(c.split()[0])]['qtd'] += 1
     image_detail.append(file_dict)
 
-image_detail = sorted(image_detail, key=lambda k: k['file']) 
+image_detail = sorted(image_detail, key=lambda k: k['file'])
+print(classes)
 
 with open('../info/ssl-dataset.csv', mode='w') as csv_file:
     fieldnames = ['file'] + [k["class"] for k in classes]
