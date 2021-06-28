@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>goal</name>
+		<name>ball</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
